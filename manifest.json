@@ -17,7 +17,7 @@
     "type": "image/png"
   },
   {
-    "src": "https://stanislawszymanskionline-crypto.github.io/sp-milowice-manifest/logo-sp-milowice.svg",
+    "src": "https://raw.githubusercontent.com/stanislawszymanskionline-crypto/sp-milowice-manifest/8d20838b121c3fab3ebf191578ffadd6cd3e0387/logo-sp-milowice.svg",
     "sizes": "any",
     "type": "image/svg+xml",
     "purpose": "any"
