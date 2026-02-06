@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Tło: niebieskie koło -->
+ <defs>
+  <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+   <stop offset="0%" stop-color="#1E73BE"/>
+   <stop offset="100%" stop-color="#1A5FB4"/>
+  </linearGradient>
+ </defs>
+ <!-- Duże "SP" -->
+ <!-- Mniejsze "Miłowice" -->
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="256" cy="256" fill="url(#bg)" id="svg_1" r="256"/>
+  <text dominant-baseline="middle" fill="#FFFFFF" font-family="Montserrat, Poppins, system-ui, sans-serif" font-size="180" font-weight="800" id="svg_2" text-anchor="middle" x="50%" y="48%">SP</text>
+  <text dominant-baseline="middle" fill="#FFFFFF" font-family="Montserrat, Poppins, system-ui, sans-serif" font-size="64" font-weight="500" id="svg_3" text-anchor="middle" x="50%" y="68%">Miłowice</text>
+ </g>
+</svg>
